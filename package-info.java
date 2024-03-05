@@ -1,1 +1,1 @@
-package CommonUtils;
+package basicTestNG;
